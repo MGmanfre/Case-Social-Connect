@@ -2,7 +2,7 @@
 Repositório que servirá como 1º Checkpoint da disciplina de WebDev da FIAP
 
 ## Resumo Projeto
-
+    Um site da Empresa Social connect que tivemos que arrumar certos problemas por causa da falta de algumas features e alguns bug ocorridos.
 ### Problemas Resolvidos
 - Imagens concertadas
 - Cores concertados
